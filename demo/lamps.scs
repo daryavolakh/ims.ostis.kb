@@ -1,0 +1,4 @@
+lamps_demo = [*
+	lamps_on <- sc_node_not_relation;;	
+	lamps <- sc_node_not_relation;;
+*];;
